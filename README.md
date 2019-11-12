@@ -39,7 +39,7 @@ This software is released "AS-IS", but welcome improvements to the base code as 
 
 ## Setup Metadata Catalog App
 
-1. Download the the app from Azure [here](https://hdillappocrgdiag719.blob.core.windows.net/qlikpe-files/Cloudera Data Catalog.qvf) 
+1. Download the the app from Azure [here](https://hdillappocrgdiag719.blob.core.windows.net/qlikpe-files/Cloudera%20Data%20Catalog.qvf) 
 
 2. Upload to your QMC
 
